@@ -1,0 +1,12 @@
+# Desafio - Codeland Username Validation
+
+Faça com que a função CodelandUsernameValidation( str ) pegue o parâmetro str que está sendo passado e determine se a string é um nome de usuário válido de acordo com as seguintes regras:
+
+1. O nome de usuário tem entre 4 e 25 caracteres.
+2. Deve começar com uma letra.
+3. Só pode conter letras, números e o caractere sublinhado.
+4. Não pode terminar com um caractere de sublinhado.
+
+Se o nome de usuário for válido, seu programa deve retornar a string true , caso contrário, retornar a string false .
+
+<a href="./index.js">Minha solução</a>
